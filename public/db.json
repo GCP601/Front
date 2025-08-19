@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone Samsung Galaxy S23",
+      "description": "Smartphone com tela de 6.1 polegadas, 128GB de armazenamento e câmera tripla de 50MP",
+      "price": 2499.99,
+      "category": "Eletrônicos",
+      "pictureUrl": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=300&h=300&fit=crop&crop=center"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Dell Inspiron 15",
+      "description": "Notebook com processador Intel i7, 16GB de RAM, SSD 512GB e tela Full HD",
+      "price": 3299.99,
+      "category": "Informática",
+      "pictureUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=300&h=300&fit=crop&crop=center"
+    },
+    {
+      "id": 3,
+      "name": "Fone Bluetooth Sony WH-1000XM4",
+      "description": "Fone de ouvido sem fio com cancelamento de ruído ativo e bateria de 30h",
+      "price": 899.99,
+      "category": "Áudio",
+      "pictureUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=300&fit=crop&crop=center"
+    },
+    {
+      "id": 4,
+      "name": "Smart TV LG 55\" 4K",
+      "description": "Smart TV OLED 4K UHD de 55 polegadas com webOS e suporte a HDR10",
+      "price": 3999.99,
+      "category": "TV & Áudio",
+      "pictureUrl": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=300&h=300&fit=crop&crop=center"
+    },
+    {
+      "id": 5,
+      "name": "Mouse Gamer Logitech G Pro",
+      "description": "Mouse gamer sem fio com sensor HERO 25K e design ambidestro profissional",
+      "price": 449.99,
+      "category": "Periféricos",
+      "pictureUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=300&h=300&fit=crop&crop=center"
+    },
+    {
+      "id": 6,
+      "name": "Tablet iPad Air",
+      "description": "Tablet Apple iPad Air com tela de 10.9 polegadas, chip M1 e 256GB",
+      "price": 4199.99,
+      "category": "Tablets",
+      "pictureUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300&h=300&fit=crop&crop=center"
+    }
+  ]
+}
